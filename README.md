@@ -4,6 +4,10 @@
 
 It enables inventory operators to rapidly scan barcodes and inventory numbers, manage quantities, and generate `.csv` or `.txt` files formatted specifically for direct import into **1C:Enterprise** or Excel via USB.
 
+<img width="240" height="400" alt="Screenshot_20260925-150320" src="https://github.com/user-attachments/assets/90dc7025-3816-4d5e-b32a-ed221b8577ca" />  <img width="240" height="400" alt="Screenshot_20260925-150328" src="https://github.com/user-attachments/assets/a3519f10-1c9d-48b0-bfd0-93f6de43053d" />
+
+
+
 ---
 
 ## Features
